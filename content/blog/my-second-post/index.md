@@ -1,13 +1,9 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: 두번째 포스팅 더미데이터
+date: "2021-11-30T09:46:37.121Z"
+description: 더보기 부분을 아예 설정이 가능한가봄
 ---
 
-Wow! I love blogging so much already.
+굉장히 신기한 와중에 있으며 틀을 만들어두면 그 틀을 따라 글을 쓸때 자동으로 코딩이 되는 모양입니다 하놔 운영할때 이런거 알았으면 10분 노동할거 2분만 노동해도 됐었겠다
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
-
-Yeah, I didn't either.
+Yeah

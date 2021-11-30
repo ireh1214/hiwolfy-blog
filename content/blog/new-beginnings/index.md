@@ -1,9 +1,10 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: 세번째 포스팅입니다
+date: "2021-11-30T22:40:32.169Z"
+description: 더미데이터 노래 가사로 하고싶은데 긴 노래가사 뭐 있지
 ---
 
+더미데이터를 넣어보고 있습니다 상당히 좋은 템플릿인 것 같음 
 Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
